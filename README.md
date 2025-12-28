@@ -23,4 +23,4 @@ ARM NEON SIMD intrinsics on embedded platforms.
 - Time & Memory Profiling
 
 ## Documentation
-📊 [Project Presentation](docs/ARM_NEON_Optimization_Presentation.pptx)
+[Project Presentation](Neon_Optimization.pdf)
