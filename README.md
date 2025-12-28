@@ -1,1 +1,1 @@
-# Arm-neon-optimization
+# neon-optimization
